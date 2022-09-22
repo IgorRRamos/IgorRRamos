@@ -1,6 +1,5 @@
 ## Olá eu sou o Igor
 
-- ⛑ Atualmente trabalho como vigia!
 - 📖 estudando para me especializar em back-end!
 - 😀 Pronomes: ele/dele
 
