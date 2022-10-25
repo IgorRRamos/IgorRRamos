@@ -10,11 +10,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"></a>
         <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
-    </div> 
 </div>
-
-
 <div style="display: inline_block"><br>
     <div align="center">
         <h2><strong>💻 Estudando | Skills</strong></h2>
