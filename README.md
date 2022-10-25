@@ -6,8 +6,12 @@
 <div align="center">
   <a href="https://github.com/IgorRRamos">
     <a href="https://github.com/IgorRRamos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRRamos&layout=compact&langs_count=7&theme=gotham">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true"></a>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"></a>
+        <br>
   
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
+    </div> 
 </div>
 
 
@@ -37,6 +41,9 @@
   <a href = "mailto:ramosigorprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
+    </div> 
 
 
 
