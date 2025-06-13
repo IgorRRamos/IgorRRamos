@@ -23,7 +23,6 @@
         <h2><strong>💻 Habilidades | Skills</strong></h2>
         <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
         <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <a >
         <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <h2><strong>💻 Estudando | study</strong></h2>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -37,8 +36,7 @@
         <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <h3>Obrigado por ler | Thanks for reading<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></h3>
         <a href="https://github.com/IgorRRamos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRRamos&layout=compact&langs_count=7&theme=gotham">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"></a>
-        <br>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_public=true&count_private=true"></a>
         <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
     </div> 
     <div style="display: inline_block"><br>
