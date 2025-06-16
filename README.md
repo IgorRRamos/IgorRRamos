@@ -36,7 +36,7 @@
         <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <h3>Obrigado por ler | Thanks for reading<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></h3>
         <a href="https://github.com/IgorRRamos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRRamos&layout=compact&langs_count=7&theme=gotham">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_public=true&count_private=true"></a>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_public=true"></a>
         <br>
         <img src="https://readme-typing-svg.herokuapp.com/?lines=no+pain+no+gain+=);&font=Fira%20Code&center=true&width=380&height=50" alt="no-pain-no-gain">
     </div> 
