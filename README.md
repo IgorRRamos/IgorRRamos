@@ -33,11 +33,11 @@
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
         <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
         <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <h2>✨Estou interessado | I'm interested</h2>
         <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
         <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <img alt="kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
         <h3>Obrigado por ler | Thanks for reading<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/winking-face_1f609.png" width="30"></h3>
         <a href="https://github.com/IgorRRamos"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRRamos&layout=compact&langs_count=7&theme=gotham">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorRRamos&show_icons=true&theme=gotham&include_all_commits=true&count_plubic=true"></a>
