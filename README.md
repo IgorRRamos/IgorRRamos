@@ -12,8 +12,8 @@
 </header>
 <dl>
   <h2>About me:</h2>
-  <li>I’m currently learning Java and JS/CCS/HTML;</li>
-  <li>Atualmente estou aprendendo Java e JS/CCS/HTML;</li>
+  <li>I’m currently learning Java and Spring;</li>
+  <li>Atualmente estou aprendendo Java e Spring;</li>
   <li>I’m Studying Systems Analysis and Development in IMES (Instituto Mineiro de Educação superior);</li>
   <li>Estou cursando Análise e Desenvolvimento de Sistemas no IMES;</li>
 </dl>
